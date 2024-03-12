@@ -1,6 +1,6 @@
 ## 1.使用nextsv生成执行的sh文件
 ```
-python nextsv3.py -a minimap2+winnowmap+ngmlr -i /ifs1/laicx/02.human-dataset/HG002_NA24385_son/PacBio_CCS_15kb/HG002/02.fastq_file -o ./04.nextsv_output -s PacBio_HG002 -r /ifs1/laicx/01.reference/GRCh37-hg19/human_hs37d5/human_hs37d5.fasta  -t 8 -p hifi
+python nextsv3.py -a minimap2+winnowmap+ngmlr -i /ifs1/laicx/02.human-dataset/HG002_NA24385_son/PacBio_CCS_15kb/HG002/02.fastq_file -o ./04.nextsv_output -s PacBio_CCS_15 -r /ifs1/laicx/01.reference/GRCh37-hg19/human_hs37d5/human_hs37d5.fasta  -t 8 -p hifi
 ```
 ## 2.比对的bam文件生成耗费资源
 ```
