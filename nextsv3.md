@@ -26,25 +26,25 @@ echo $PBS_O_WORKDIR
 source activate nextsv3.8
 
 # sh /home/laicx/study/02.svcode/07.nextsv/04.nextsv_output/1_clean_reads/get_clean_reads.sh
-# sh /home/laicx/study/02.svcode/07.nextsv/04.nextsv_output/2_aligned_bam/run_minimap2.PacBio_HG002.sh
-sh /home/laicx/study/02.svcode/07.nextsv/04.nextsv_output/3_SV_calls/run_sniffles_for_minimap2.PacBio_HG002.sh
-sh /home/laicx/study/02.svcode/07.nextsv/04.nextsv_output/3_SV_calls/run_svim_for_minimap2.PacBio_HG002.sh
-sh /home/laicx/study/02.svcode/07.nextsv/04.nextsv_output/3_SV_calls/run_pbsv_for_minimap2.PacBio_HG002.sh
-sh /home/laicx/study/02.svcode/07.nextsv/04.nextsv_output/3_SV_calls/run_nanovar_for_minimap2.PacBio_HG002.sh
-sh /home/laicx/study/02.svcode/07.nextsv/04.nextsv_output/3_SV_calls/run_NanoSV_for_minimap2.PacBio_HG002.sh
-sh /home/laicx/study/02.svcode/07.nextsv/04.nextsv_output/3_SV_calls/run_cuteSV_for_minimap2.PacBio_HG002.sh
-# sh /home/laicx/study/02.svcode/07.nextsv/04.nextsv_output/2_aligned_bam/run_winnowmap.PacBio_HG002.sh
-sh /home/laicx/study/02.svcode/07.nextsv/04.nextsv_output/3_SV_calls/run_sniffles_for_winnowmap.PacBio_HG002.sh
-sh /home/laicx/study/02.svcode/07.nextsv/04.nextsv_output/3_SV_calls/run_svim_for_winnowmap.PacBio_HG002.sh
-sh /home/laicx/study/02.svcode/07.nextsv/04.nextsv_output/3_SV_calls/run_pbsv_for_winnowmap.PacBio_HG002.sh
-sh /home/laicx/study/02.svcode/07.nextsv/04.nextsv_output/3_SV_calls/run_nanovar_for_winnowmap.PacBio_HG002.sh
-sh /home/laicx/study/02.svcode/07.nextsv/04.nextsv_output/3_SV_calls/run_NanoSV_for_winnowmap.PacBio_HG002.sh
-sh /home/laicx/study/02.svcode/07.nextsv/04.nextsv_output/3_SV_calls/run_cuteSV_for_winnowmap.PacBio_HG002.sh
-# sh /home/laicx/study/02.svcode/07.nextsv/04.nextsv_output/2_aligned_bam/run_ngmlr.PacBio_HG002.sh
-sh /home/laicx/study/02.svcode/07.nextsv/04.nextsv_output/3_SV_calls/run_sniffles_for_ngmlr.PacBio_HG002.sh
-sh /home/laicx/study/02.svcode/07.nextsv/04.nextsv_output/3_SV_calls/run_svim_for_ngmlr.PacBio_HG002.sh
-sh /home/laicx/study/02.svcode/07.nextsv/04.nextsv_output/3_SV_calls/run_pbsv_for_ngmlr.PacBio_HG002.sh
-sh /home/laicx/study/02.svcode/07.nextsv/04.nextsv_output/3_SV_calls/run_nanovar_for_ngmlr.PacBio_HG002.sh
-sh /home/laicx/study/02.svcode/07.nextsv/04.nextsv_output/3_SV_calls/run_NanoSV_for_ngmlr.PacBio_HG002.sh
-sh /home/laicx/study/02.svcode/07.nextsv/04.nextsv_output/3_SV_calls/run_cuteSV_for_ngmlr.PacBio_HG002.sh
+# sh /home/laicx/study/02.svcode/07.nextsv/04.nextsv_output/2_aligned_bam/run_minimap2.PacBio_CCS_15.sh
+sh /home/laicx/study/02.svcode/07.nextsv/04.nextsv_output/3_SV_calls/run_sniffles_for_minimap2.PacBio_CCS_15.sh
+sh /home/laicx/study/02.svcode/07.nextsv/04.nextsv_output/3_SV_calls/run_svim_for_minimap2.PacBio_CCS_15.sh
+sh /home/laicx/study/02.svcode/07.nextsv/04.nextsv_output/3_SV_calls/run_pbsv_for_minimap2.PacBio_CCS_15.sh
+sh /home/laicx/study/02.svcode/07.nextsv/04.nextsv_output/3_SV_calls/run_nanovar_for_minimap2.PacBio_CCS_15.sh
+sh /home/laicx/study/02.svcode/07.nextsv/04.nextsv_output/3_SV_calls/run_NanoSV_for_minimap2.PacBio_CCS_15.sh
+sh /home/laicx/study/02.svcode/07.nextsv/04.nextsv_output/3_SV_calls/run_cuteSV_for_minimap2.PacBio_CCS_15.sh
+# sh /home/laicx/study/02.svcode/07.nextsv/04.nextsv_output/2_aligned_bam/run_winnowmap.PacBio_CCS_15.sh
+sh /home/laicx/study/02.svcode/07.nextsv/04.nextsv_output/3_SV_calls/run_sniffles_for_winnowmap.PacBio_CCS_15.sh
+sh /home/laicx/study/02.svcode/07.nextsv/04.nextsv_output/3_SV_calls/run_svim_for_winnowmap.PacBio_CCS_15.sh
+sh /home/laicx/study/02.svcode/07.nextsv/04.nextsv_output/3_SV_calls/run_pbsv_for_winnowmap.PacBio_CCS_15.sh
+sh /home/laicx/study/02.svcode/07.nextsv/04.nextsv_output/3_SV_calls/run_nanovar_for_winnowmap.PacBio_CCS_15.sh
+sh /home/laicx/study/02.svcode/07.nextsv/04.nextsv_output/3_SV_calls/run_NanoSV_for_winnowmap.PacBio_CCS_15.sh
+sh /home/laicx/study/02.svcode/07.nextsv/04.nextsv_output/3_SV_calls/run_cuteSV_for_winnowmap.PacBio_CCS_15.sh
+# sh /home/laicx/study/02.svcode/07.nextsv/04.nextsv_output/2_aligned_bam/run_ngmlr.PacBio_CCS_15.sh
+sh /home/laicx/study/02.svcode/07.nextsv/04.nextsv_output/3_SV_calls/run_sniffles_for_ngmlr.PacBio_CCS_15.sh
+sh /home/laicx/study/02.svcode/07.nextsv/04.nextsv_output/3_SV_calls/run_svim_for_ngmlr.PacBio_CCS_15.sh
+sh /home/laicx/study/02.svcode/07.nextsv/04.nextsv_output/3_SV_calls/run_pbsv_for_ngmlr.PacBio_CCS_15.sh
+sh /home/laicx/study/02.svcode/07.nextsv/04.nextsv_output/3_SV_calls/run_nanovar_for_ngmlr.PacBio_CCS_15.sh
+sh /home/laicx/study/02.svcode/07.nextsv/04.nextsv_output/3_SV_calls/run_NanoSV_for_ngmlr.PacBio_CCS_15.sh
+sh /home/laicx/study/02.svcode/07.nextsv/04.nextsv_output/3_SV_calls/run_cuteSV_for_ngmlr.PacBio_CCS_15.sh
 ```
